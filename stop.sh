@@ -1,0 +1,1 @@
+docker rm -f klen-spring-app-tomcat
